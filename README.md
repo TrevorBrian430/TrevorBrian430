@@ -13,12 +13,20 @@
 
 - 📫 How to reach me **briantrevor430@gmail.com**
 
+- 📄 Know about my experiences [https://dulcet-narwhal-3a0094.netlify.app/](https://dulcet-narwhal-3a0094.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/@trevorbrian430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@trevorbrian430" height="30" width="40" /></a>
+<a href="https://dev.to/trevorbrian430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="trevorbrian430" height="30" width="40" /></a>
 <a href="https://twitter.com/brian_trevor5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brian_trevor5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brian-njenga-a65255227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-njenga-a65255227" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22438988/brian-trevor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22438988/brian-trevor" height="30" width="40" /></a>
+<a href="https://codesandbox.com/trevorbrian430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="trevorbrian430" height="30" width="40" /></a>
 <a href="https://fb.com/brian.trevor.430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brian.trevor.430" height="30" width="40" /></a>
 <a href="https://instagram.com/brian_trevor_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brian_trevor_5" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/techgraphix430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techgraphix430" height="30" width="40" /></a>
+<a href="https://discord.gg/brian430." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brian430." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
