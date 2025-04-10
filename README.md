@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **briantrevor430@gmail.com**
 
-- 📄 Know about my experiences [https://dulcet-narwhal-3a0094.netlify.app/](https://dulcet-narwhal-3a0094.netlify.app/)
+- 📄 Know about my experiences [[https://dulcet-narwhal-3a0094.netlify.app/](https://briannjenga.netlify.app/)](https://briannjenga.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
