@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Brian Trevor</h1>
+<h1 align="center">Hi 👋, I'm Brian Njenga</h1>
 <h3 align="center">Am an Information Technician from Kenya</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
